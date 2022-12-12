@@ -1,0 +1,84 @@
+Study Material:
+Javascript Coding Standard
+https://github.com/airbnb/javascript
+
+Git: 
+https://towardsdatascience.com/git-for-absolute-beginners-understanding-git-with-the-help-of-a-video-game-88826054459a
+
+NodeJs:
+What is node?
+https://javascript.plainenglish.io/what-is-node-js-5fe50e4332c8
+Hello World
+https://javascript.plainenglish.io/node-js-hello-world-with-node-js-and-express-61dd390c0b14
+Todo List
+https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-1-c645c7a27583
+Best Practices
+https://medium.com/dhiwise/10-best-practices-every-node-js-developer-must-follow-32072950a5ac
+GraphQL:
+Intro:
+https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb
+https://javascript.plainenglish.io/graphql-with-node-js-express-js-51f94ad752ad
+App:
+https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1
+https://medium.com/codesphere-cloud/how-to-build-a-graphql-server-with-nodejs-and-express-42eec1310a9f
+https://javascript.plainenglish.io/authenticate-graphql-queries-with-jsonwebtokens-jwt-in-orm-nodejs-environment-using-typescript-eaab53eb6d24
+Project:
+https://levelup.gitconnected.com/building-a-realtime-graphql-chat-application-with-sms-notifications-cc8ecbd0ada0
+Best Practice:
+https://medium.com/paypal-tech/graphql-resolvers-best-practices-cd36fdbcef55
+https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-d20c920a4494
+
+
+
+Sequelize:
+Intro
+https://betterprogramming.pub/node-js-backend-to-connect-mysql-database-using-sequelize-modeling-8cc637ed5f29
+
+Sequelize Sync
+https://medium.com/@smallbee/how-to-use-sequelize-sync-without-difficulties-4645a8d96841
+
+Associations:
+https://medium.com/@eth3rnit3/sequelize-relationships-ultimate-guide-f26801a75554
+https://javascript.plainenglish.io/four-sequelize-associations-you-should-know-415d8d413e1e
+Transations:
+https://medium.com/@rashmishehana_48965/handling-sequelize-transactions-89dffa4e723d
+
+Postgres
+https://medium.com/yavar/node-express-and-postgresql-using-sequelize-in-ubuntu-18-04-3-lts-bc8d2cde3796
+https://medium.com/techno101/crud-using-node-js-express-and-sequelize-82c10ef3b346
+
+
+Lodash
+Intro
+https://medium.com/@hakhoipham/the-beginners-guide-to-lodash-58f98599da54
+https://medium.com/voobans-tech-stories/10-lodash-functions-everyone-should-know-334b372aec5d
+https://medium.com/techshots/introduction-to-lodash-4d1518eac63a
+Joi Validation
+https://softchris.github.io/pages/joi.html#testing-it-out
+https://medium.com/@dinesh_kumar/how-to-integrate-joi-data-validation-in-express-apis-55b7d0255fec
+
+Testing:
+Mocha & Chai:
+https://itnext.io/how-to-make-tests-using-chai-and-mocha-e9db7d8d48bc
+
+https://medium.com/kanssfer-consulting/testing-expressjs-rest-api-with-mocha-and-chai-90bf4178f15e
+
+SuperTest:
+https://mistryakshar54.medium.com/supercharge-your-nodejs-testing-using-supertest-ecaa90497e2f
+
+https://medium.com/@iamfaisalkhatri/api-testing-using-supertest-ea37522fa329
+
+https://medium.com/practical-software-testing/api-testing-with-mocha-and-chai-944c2f26c340
+
+Node folder structure
+https://medium.com/codechef-vit/a-better-project-structure-with-express-and-node-js-c23abc2d736f
+
+PassportJs
+https://itnext.io/implementing-json-web-tokens-passport-js-in-a-javascript-application-with-react-b86b1f313436
+
+Coding Standards:
+https://docs.google.com/document/d/1vLw7VHWcTWle_-aNDHYQ5tcPQv8A9AVzehOwhIVSZ6s/edit
+
+Docker:
+https://github.com/pratik-choudhari/docker-guide
+
